@@ -1,0 +1,10 @@
+public class addnum 
+{
+	public static void main(String args[])
+	{
+		int num1=15,num2=4,num;
+		num=num1+num2;
+		System.out.println("Sum of two numbers="+num);
+	}
+
+}
